@@ -14,8 +14,8 @@
 				"category": "Interplan",
 				"url": "https://github.com/interplanwireless/arduino_board_index/raw/gh-pages/boards/interplan-samd-1.0.0.zip",
 				"archiveFileName": "interplan-samd-1.0.0.zip",
-				"checksum": "SHA-256:614bbf2fdda5d3bdabaa329c541ceabe1332b1f4d06ccda142fe863c62f449a2",
-				"size": "1719872",
+				"checksum": "SHA-256:f4c8933e7b616278af4902da44bd79640001e81109ff1fa6450efcdd06789910",
+				"size": "1719870",
 				"help": {
 					"online": "https://www.interplan.co.jp/form.php"
 				},
